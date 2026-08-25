@@ -19,4 +19,6 @@ O objetivo é permitir com que os usuarios expressem seus pensamentos e opinioes
 **RF02** o sistema deve permitir que a pessoa comente nas postagens 
 
 ## Modelo conceitual
-![](redesocial.png)
+![](modelo-conceitual2.png)
+## Modelo logico
+![](modelo-logico-rede-social3.png)
