@@ -22,3 +22,7 @@ O objetivo é permitir com que os usuarios expressem seus pensamentos e opinioes
 ![](modelo-conceitual2.png)
 ## Modelo logico
 ![](modelo-logico-rede-social3.png)
+
+## Tabela Banco de dados
+
+![](tabela.png)
